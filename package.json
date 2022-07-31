@@ -1,0 +1,24 @@
+{
+  "name": "abhishek-raj-poudel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx tailwindcss -i ./src/style.css -o ./output/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhishek-Raj-Poudel/Abhishek-Raj-Poudel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhishek-Raj-Poudel/Abhishek-Raj-Poudel/issues"
+  },
+  "homepage": "https://github.com/Abhishek-Raj-Poudel/Abhishek-Raj-Poudel#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.1.7"
+  }
+}
