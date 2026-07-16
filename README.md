@@ -81,4 +81,4 @@ I build fast, clean, and maintainable websites. Laravel apps, React frontends â€
 
 - **Email:** abhishekrajpoudel@gmail.com
 - **LinkedIn:** [Abhishek Poudel](https://linkedin.com/in/abhishek-poudel)
-- **Portfolio:** [abhishekpoudel.com.np](https://abhishekpoudel.com.np)
+- **Portfolio:** [abhishekrajpoudel.com.np](https://abhishekrajpoudel.com.np)
